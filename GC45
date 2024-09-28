@@ -1,4 +1,4 @@
-my_input = input("Please put in a character:")
+my_input = input("Enter character:")
 if len(my_input) == 1:
     print("data valid")
 else:
